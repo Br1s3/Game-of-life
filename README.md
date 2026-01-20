@@ -15,3 +15,10 @@ $ ./main Gameinit.txt
 ## Exmple
 
 [![Game exemple](./picture/thumbnail.png)](/picture)
+
+
+## References
+
+- https://playgameoflife.com/
+
+- https://joatdev.fr/Conway
