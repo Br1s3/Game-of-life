@@ -99,7 +99,7 @@ int main(int argc, char *argv[])
     }
     fclose(file);
 
-    STAT_ALLOC(tab_static, tab, width, height);
+    STAT_ALLOC(tab_static, tab, height);
 
     for (;;) {
 	moveto(0, 0);
